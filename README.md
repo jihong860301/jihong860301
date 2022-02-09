@@ -1,0 +1,3 @@
+-------
+- Hi I'm Jihong.
+- This github account is for practicing and recording something for fun.
